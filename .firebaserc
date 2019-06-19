@@ -1,5 +1,6 @@
 {
   "projects": {
-    "gettingStartedAngular": "gettingstartedangular"
+    "gettingStartedAngular": "gettingstartedangular",
+    "default": "gettingstartedangular"
   }
 }
